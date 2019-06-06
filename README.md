@@ -50,7 +50,7 @@ This is a practice repo where I have tried replicating [this](https://github.com
 
 ## Screenshot
 
-[](https://github.com/MowlanicaBilla/AI-ML_ChatBot/blob/master/Chatbot.png)
+![](https://github.com/MowlanicaBilla/AI-ML_ChatBot/blob/master/Chatbot.png)
 
 
 ##### References
