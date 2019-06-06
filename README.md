@@ -1,5 +1,21 @@
-# Chatbot
-AI Based Chatbot
+# AI-ML Chatbot
+
+**AIML** stands for Artificial Intelligence Markup Language. AIML is an XML based markup language meant to create an Artificial Intelligent applications. AIML makes it possible to create human interfaces while keeping the implementation simple to program, easy to understand and highly maintainable. 
+
+AIML was developed by the Alicebot free software community and Dr. Richard S. Wallace during 1995-2000. 
+
+AIML is used to create or customize Alicebot which is a chat-box application based on A.L.I.C.E. (Artificial Linguistic Internet Computer Entity) free software.
+
+This is a practice repo where I have tried replicating [this](https://github.com/sohelamin/chatbot) project with some additional AI-ML files.
+
+| Tags | Description |
+|--------------------|
+| <aiml> | Defines the beginning and end of a AIML document. |
+| <category> | Defines the unit of knowledge in Alicebot's knowledge base. |
+| <pattern>	| Defines the pattern to match what a user may input to an Alicebot. |
+| <template> | Defines the response of an Alicebot to user's input. |
+| <star> | Used to match wild card * character(s) in the <pattern> Tag. |
+| <srai> | Multipurpose tag, used to call/match the other categories. |
 
 ### Requirements
     Python = 2.x.x
@@ -20,13 +36,16 @@ AI Based Chatbot
     ```bash
     python main.py
     ```
-4. Open **http://127.0.0.1:5000** in your browser.
+4. Open **http://127.0.0.1:5000** or **http://localhost:5000** in your browser.
 
 5. You're done and let's chat with your Robot via browser.
 
 ## Screenshot
-![chatbot](https://user-images.githubusercontent.com/1708683/27002771-68618802-4e0b-11e7-870a-3c05e3f68146.png)
 
-## Author
 
-[Sohel Amin](http://www.sohelamin.com)
+
+
+##### References
+1. https://www.tutorialspoint.com/aiml/
+2. https://www.devdungeon.com/content/ai-chat-bot-python-aiml
+
