@@ -16,6 +16,14 @@ This is a practice repo where I have tried replicating [this](https://github.com
 | `<template>` | Defines the response of an Alicebot to user's input. |
 | `<star>` | Used to match wild card * character(s) in the <pattern> Tag. |
 | `<srai>` | Multipurpose tag, used to call/match the other categories. |
+| `<random>` | Used <random> to get random responses. |
+| `<li>` | Used to represent multiple responses. |
+| `<set>` | Used to set value in an AIML variable. |
+| `<get>` | Used to get value stored in an AIML variable. |
+| `<that>` | Used in AIML to respond based on the context. |
+| `<topic>` | Used in AIML to store a context so that later conversation can be done based on that context. |
+| `<think>` | Used in AIML to store a variable without notifying the user. |
+| `<condition>` | Similar to switch statements in programming language. It helps ALICE to respond to matching input. |
 
 ### Requirements
     Python = 2.x.x
