@@ -9,7 +9,7 @@ AIML is used to create or customize Alicebot which is a chat-box application bas
 This is a practice repo where I have tried replicating [this](https://github.com/sohelamin/chatbot) project with some additional AI-ML files.
 
 | Tags | Description |
-|--------------------|
+| ----- | ---- |
 | <aiml> | Defines the beginning and end of a AIML document. |
 | <category> | Defines the unit of knowledge in Alicebot's knowledge base. |
 | <pattern>	| Defines the pattern to match what a user may input to an Alicebot. |
