@@ -10,12 +10,12 @@ This is a practice repo where I have tried replicating [this](https://github.com
 
 | Tags | Description |
 | ----- | ---- |
-| <aiml> | Defines the beginning and end of a AIML document. |
-| <category> | Defines the unit of knowledge in Alicebot's knowledge base. |
-| <pattern>	| Defines the pattern to match what a user may input to an Alicebot. |
-| <template> | Defines the response of an Alicebot to user's input. |
-| <star> | Used to match wild card * character(s) in the <pattern> Tag. |
-| <srai> | Multipurpose tag, used to call/match the other categories. |
+| '<aiml>' | Defines the beginning and end of a AIML document. |
+| '<category>' | Defines the unit of knowledge in Alicebot's knowledge base. |
+| '<pattern>' | Defines the pattern to match what a user may input to an Alicebot. |
+| '<template>' | Defines the response of an Alicebot to user's input. |
+| '<star>' | Used to match wild card * character(s) in the <pattern> Tag. |
+| '<srai>' | Multipurpose tag, used to call/match the other categories. |
 
 ### Requirements
     Python = 2.x.x
